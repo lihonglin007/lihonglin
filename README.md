@@ -1,11 +1,13 @@
 # lihonglin
 hello, this is my profile!
-<<h1 align="center">Hi 👋, I'm lihonglin</h1>
+<h1 align="center">Hi 👋, I'm lihonglin</h1>
 <h3 align="center">A beginner passionate about data science.</h3>
 
 - 🔭 I used to work as a software testing engineer. **Work for Sichuan Airlines**
 
 - 🌱 I’m currently learning **python,sql,Business intelligenceand Analytic,Statistics,Massive Data Mining**
+
+- 📚 I am studying for **a Master's in Data Science at UTM**
 
 - 📫 How to reach me **LHL2024Admit@126.com**
 
