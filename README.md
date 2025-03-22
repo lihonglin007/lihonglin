@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **LHL2024Admit@126.com**
 
-- ⚡ Fun fact **I Want to discover interesting things in life through data.╰(*°▽°*)╯**
+- ⚡  **I Want to discover interesting things in life through data.╰(*°▽°*)╯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
