@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lihonglin</h1>
 <h3 align="center">A beginner passionate about data science.</h3>
 
-- 🔭 I used to work as a software testing engineer. **Work for Sichuan Airlines**（2022-2024）
+- 🔭 I used to work as a software testing engineer. **Work for Sichuan Airlines**（2020-2024）
   
    - Served as a test team leader, coordinating testing tasks and managing test progress.  
 
